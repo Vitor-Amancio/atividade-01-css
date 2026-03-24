@@ -1,2 +1,2 @@
-# atividade-01-css
+# tipos-de-css
 Primeria atividade de css(inline, interno e externo)
